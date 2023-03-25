@@ -1,0 +1,14 @@
+body {background-color: rgb(100, 100, 100); width: 50%;}
+p {color:powderblue;
+font-family:Arial, Helvetica, sans-serif;
+border: 2px solid powderblue; padding: 10px;
+}
+h1{color:red}
+div{background-color:crimson; width: 25%; color: aliceblue;}
+
+/*this is a review of an external CSS use for my HTML CV project*/
+
+/*You did it, you are breaking your fears. I'm proud of you*/
+
+/* Remember you can place a border on every element*/
+/*An external CSS style reference can be located outside*/
